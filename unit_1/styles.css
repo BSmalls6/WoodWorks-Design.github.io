@@ -5,3 +5,14 @@ body {background-color: navy;
   font-weight: bold;
   text-decoration: underline;
 }
+body {text-align: center;
+  background: url("https://imgur.com/r/soccer/ayeHdwx");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+hr {
+  width: 300px;
+}
+p {
+  font-size: 22px;}
