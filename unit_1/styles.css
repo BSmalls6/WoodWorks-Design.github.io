@@ -1,9 +1,7 @@
-body {background-color: navy
-}
-h1, h2, p {color: gold
-}
-h1, h2 {font-family: Arial, sans-serif;
+body {background-color: navy;
+      text-align: center;
+    color: gold;
+    font-family: Arial, sans-serif;
   font-weight: bold;
   text-decoration: underline;
 }
-body {text-align: center;}
