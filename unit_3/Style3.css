@@ -1,5 +1,4 @@
-body{
-  text-align: center;
+body {text-align: center;
   background: url("https://imgur.com/r/soccer/ayeHdwx");
   background-size: cover;
   color: #fff;
@@ -10,3 +9,10 @@ hr {
 }
 p {
   font-size: 22px;}
+  #options ul{
+  	list-style: none;
+  }
+  #options li{
+  	display: inline-table;
+  }
+  img {position: relative;}
