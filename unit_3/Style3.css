@@ -2,7 +2,7 @@ body {text-align: center;
   background: url("https://i.imgur.com/ayeHdwx.jpg");
   background-size: cover;
   color: Black;
-  
+
   font-family: Helvetica;
 }
 hr {
@@ -17,3 +17,5 @@ p {
   	display: inline-table;
   }
   img {position: relative;}
+  li { margin-bottom: 5px;
+  	border:1px;}
