@@ -11,7 +11,7 @@ h1, h2 {
 }
 #menu-outer {
 	height: 84px;
-	background: url(images/bar-bg.jpg) repeat-x;
+	background-color: #42cbf4
 	margin-bottom: 10px;
 }
 
@@ -27,6 +27,6 @@ ul#horizontal-list {
 	}
 	ul#horizontal-list li {
 		display: inline;
-		padding: 50px;
+		padding: 100px;
 	}
 	
