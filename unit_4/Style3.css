@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Racing+Sans+One');
 body {text-align: center;
-  background: url("soccer_background.jpg");
+  background-image: url("soccer_background.jpg");
   background-size: cover;
   color: Black;
 
@@ -27,6 +27,13 @@ ul#horizontal-list {
 	}
 	ul#horizontal-list li {
 		display: inline;
-		padding: 100px;
+		padding: 50px;
 	}
-	
+#contact{
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+#content {
+	padding-top: 10px;
+}

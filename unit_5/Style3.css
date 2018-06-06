@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Racing+Sans+One');
+body {text-align: center;
+  background-size: cover;
+  color: Black;
+
+  font-family: 'Racing Sans One', cursive;
+}
+header {
+	text-align: left;
+	background-color: #FFED74;
+	border: 1px Black solid;
+	padding: 20px;
+
+}
+nav{
+	background-color: #E8C66A;
+	display: inline-grid;
+	border: 1px black solid;
+}
+			ul {
+			list-style-type: none;
+			margin: .8em;
+			padding: .5em;
+		}
+			li {
+			display: inline-block;
+		}
+aside {
+	text-align: left;
+	background-color: #FFC675;
+	border: 1px Black solid;
+	padding: 20px;
+	margin: 20px;
+	margin-bottom: 0;
+	float: right;
+}
+article {
+	text-align: left;
+	background-color: #E89C6C;
+	border: 1px Black solid;
+	padding: 20px;
+	margin: 20px;
+	margin-top: 0;
+	float: left;
+}
+footer {
+	text-align: left;
+	background-color: #FF957E;
+	border: 1px Black solid;
+	padding: 20px;
+}
